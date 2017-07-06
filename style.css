@@ -144,45 +144,45 @@ footer {
 
 @media screen and ( max-width: 600px ){
 
-header {
-      display: block;
-}
-#site_container {
-    display: block;
-}
+    header {
+          display: block;
+    }
+    #site_container {
+        display: block;
+    }
 
-#main_content {
-    display: block;
-}
+    #main_content {
+        display: block;
+    }
 
-#sidebar_content{
-    display: block;
-}
+    #sidebar_content{
+        display: block;
+    }
 
 
-#logo {
-  text-align: center;
-}
+    #logo {
+      text-align: center;
+    }
 
-#main_nav {
-    display: block;
-}
+    #main_nav {
+        display: block;
+    }
 
 
 }
 
 @media screen and ( max-width: 900px ){
 
-#header {
-  display: block;
-}
-#logo {
-  text-align: center;
-}
+    #header {
+      display: block;
+    }
+    #logo {
+      text-align: center;
+    }
 
-#main_content {
-  display: block;
-}
+    #main_content {
+      display: block;
+    }
 
-}
+
 }
